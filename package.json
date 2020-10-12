@@ -1,0 +1,25 @@
+{
+  "name": "epsagon-lambda-extension-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epsagon/epsagon-lambda-extension-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epsagon/epsagon-lambda-extension-example/issues"
+  },
+  "homepage": "https://github.com/epsagon/epsagon-lambda-extension-example#readme",
+  "devDependencies": {
+    "serverless-plugin-epsagon": "^1.10.0"
+  },
+  "dependencies": {
+    "epsagon": "^1.88.0"
+  }
+}
