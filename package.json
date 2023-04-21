@@ -20,6 +20,6 @@
     "serverless-plugin-epsagon": "^1.10.0"
   },
   "dependencies": {
-    "epsagon": "^1.88.0"
+    "epsagon": "^1.123.3"
   }
 }
